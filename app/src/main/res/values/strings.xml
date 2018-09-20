@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginSample</string>
+    <string name="Login">Entrar</string>
+    <string name="Entrar">Button</string>
+</resources>
